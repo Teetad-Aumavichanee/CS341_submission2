@@ -1,0 +1,3 @@
+taxi_type,total_trips,total_passengers,total_distance_miles,avg_trip_distance,avg_fare_amount,avg_duration_minutes,trip_share_pct
+yellow,17869608,24106387.0,62556154.57,3.5,19.4,16.98,98.24
+green,320853,424747.0,878621.26,2.74,17.49,18.89,1.76

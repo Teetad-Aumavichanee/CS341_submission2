@@ -1,0 +1,13 @@
+year: 2024
+months: [1, 2, 3, 4, 5, 6]
+taxi_types:
+  - yellow
+  - green
+
+base_url: "https://d37ci6vzurychx.cloudfront.net/trip-data"
+
+paths:
+  raw_dir: "data/raw"
+  curated_dir: "data/curated"
+  output_dir: "output"
+  log_dir: "logs"
